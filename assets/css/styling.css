@@ -61,6 +61,12 @@ font-size: 2.5rem;
 font-weight: 500;
 }
 
+@media (max-width: 490px) {
+h1{
+font-size: 3.9rem;
+}
+}
+
 h2{
 font-size: 1.125rem;
 }
@@ -354,4 +360,5 @@ border-bottom: 0.1rem solid hsl(256, 67%, 59%);
 
 footer a:hover::after {
 width: 100%;
+
 }
