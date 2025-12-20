@@ -56,6 +56,11 @@ flex-direction: column;
 }
 }
 
+h1{
+font-size: 2.7rem;
+font-weight: 500;
+}
+
 h2{
 font-size: 1.125rem;
 }
@@ -349,4 +354,5 @@ border-bottom: 0.1rem solid hsl(256, 67%, 59%);
 
 footer a:hover::after {
 width: 100%;
+
 }
